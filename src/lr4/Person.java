@@ -12,6 +12,7 @@ package lr4;
 public class Person {
     protected String personName;
     protected String personSurname;
+    protected int personAge;
     protected String personAge // ошибка 
     
 }
