@@ -10,5 +10,5 @@ package lr4;
  * @author 20404
  */
 public class Person {
-    
+    protected int personAge; // лишнее
 }
