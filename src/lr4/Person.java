@@ -12,5 +12,6 @@ package lr4;
 public class Person {
     protected String personName;
     protected String personSurname;
+    protected String personAge // ошибка 
     
 }
